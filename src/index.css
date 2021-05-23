@@ -11,3 +11,16 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.Hetfield {
+  height: 300px;
+  max-width: 300px;
+  object-fit: cover;
+  margin: 30px;
+}
+
+.mainDiv {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
